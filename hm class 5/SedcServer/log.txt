@@ -1,0 +1,2878 @@
+[FATAL] not-a-fatal-error
+
+erver World
+Host: localhost:668
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+<h1>HELLO FROM SEDC SERVER 7:38:44 PM</h1>
+dU; _ga=GA1.1.2037389660.1601149779
+
+<h1>HELLO FROM SEDC SERVER 7:38:44 PM</h1>
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[FATAL] not-a-fatal-error
+[DEBUG] GET / HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 Hello Server World
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+<h1>HELLO FROM SEDC SERVER 7:40:04 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[FATAL] not-a-fatal-error
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 Hello Server World
+Host: localhost:668
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+<h1>HELLO FROM SEDC SERVER 7:40:04 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[FATAL] not-a-fatal-error
+[DEBUG] GET / HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 Hello Server World
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+<h1>HELLO FROM SEDC SERVER 7:40:06 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[FATAL] not-a-fatal-error
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 Hello Server World
+Host: localhost:668
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+<h1>HELLO FROM SEDC SERVER 7:40:06 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[FATAL] not-a-fatal-error
+[DEBUG] GET / HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 Hello Server World
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+<h1>HELLO FROM SEDC SERVER 7:40:08 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[FATAL] not-a-fatal-error
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 Hello Server World
+Host: localhost:668
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+<h1>HELLO FROM SEDC SERVER 7:40:08 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[FATAL] not-a-fatal-error
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[FATAL] not-a-fatal-error
+[DEBUG] GET / HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 Hello Server World
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+<h1>HELLO FROM SEDC SERVER 8:18:02 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[FATAL] not-a-fatal-error
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 Hello Server World
+Host: localhost:668
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+<h1>HELLO FROM SEDC SERVER 8:18:02 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[FATAL] not-a-fatal-error
+[DEBUG] 
+[DEBUG] HTTP/ 200 Hello Server World
+
+
+<h1>HELLO FROM SEDC SERVER 8:19:35 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: fb19a573-5e87-4e81-9f88-1cd4ab640af5
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /one/two/three HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: cf349b60-a9da-4c59-a3f6-fc91e6728e4e
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[DEBUG] HTTP/1.1 200 Hello Server World
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: cf349b60-a9da-4c59-a3f6-fc91e6728e4e
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+<h1>HELLO FROM SEDC SERVER 6:18:06 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /one/two/three HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 052ea1e2-75fd-4a13-b9de-5c59eb6283fe
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[DEBUG] HTTP/1.1 200 Hello Server World
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 052ea1e2-75fd-4a13-b9de-5c59eb6283fe
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+<h1>HELLO FROM SEDC SERVER 6:20:25 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 7e8f34f9-93fb-47dd-a41f-755583ccf468
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest(NetworkStream stream, ILogger logger) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 19
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 48
+[DEBUG] HTTP/1.1 0 
+
+
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 4675106e-23d5-4d33-b2c7-7d25ab3a39fa
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 50
+[DEBUG] HTTP/1.1 0 
+
+
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: d6c8d836-11ca-4763-94f5-f641d40a2ca5
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 50
+[DEBUG] HTTP/1.1 664 
+
+
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: f77d07b9-ca32-4b66-8da7-43aeb73889af
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 50
+[DEBUG] HTTP/1.1 400 uri
+
+
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 50
+[DEBUG] HTTP/1.1 400 uri
+
+
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 50
+[DEBUG] HTTP/1.1 400 uri
+
+
+[INFO] Waiting for request
+[INFO] Client connected
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 07a6e264-b417-4e45-81de-03841982351c
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 50
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+uri
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 2a29f823-ecf3-4580-80b4-bcca6081acd8
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 50
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+System.ArgumentException: uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 50
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: de6ecc4f-d4f8-4851-8225-8b926b2b62ec
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 2b85eced-65c9-437c-9e73-0194c1db4c10
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 BadRequest Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 2032b4dc-9e88-4a5f-a87f-f5b497d0c542
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 BadRequest Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 BadRequest Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 BadRequest Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 BadRequest Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 BadRequest Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 BadRequest Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 BadRequest Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 0e7a4d64-6bda-45d9-85f4-3fbdf92b0161
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 BadRequest Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 BadRequest Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 BadRequest Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] 
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 BadRequest Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: e78e4b9b-cd51-49e0-a6a0-00e774db347c
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 BadRequest Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+Host: localhost:668
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 BadRequest Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] 
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 BadRequest Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] 
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 BadRequest Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+Host: localhost:668
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 BadRequest Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:668/
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 BadRequest Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+Host: localhost:668
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 BadRequest Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: image/webp,*/*
+Accept-Language: en-GB,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:668/
+Cache-Control: max-age=0
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 BadRequest Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: c41382ad-083f-45d5-b88e-0f9dbde131b5
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 70cc72bd-b996-4d93-a8a6-3a6be528f8e1
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 49a8f57f-8375-47cf-bac1-fcc30eab895c
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /a HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: d19ebb2e-35b4-4593-b7c3-0a4c10228a0e
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[DEBUG] HTTP/1.1 200 Hello Server World
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: d19ebb2e-35b4-4593-b7c3-0a4c10228a0e
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+<h1>HELLO FROM SEDC SERVER 8:07:40 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] PATCH /a HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 4fcab710-3f8d-4821-8f23-74f943ede4f6
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 0
+
+
+[DEBUG] HTTP/1.1 200 Hello Server World
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 4fcab710-3f8d-4821-8f23-74f943ede4f6
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 0
+
+<h1>HELLO FROM SEDC SERVER 8:07:47 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] COPY /a HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 4e957345-ef21-4f25-8d98-36fea591c3df
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 0
+
+
+[DEBUG] HTTP/1.1 200 Hello Server World
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 4e957345-ef21-4f25-8d98-36fea591c3df
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 0
+
+<h1>HELLO FROM SEDC SERVER 8:07:55 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] PUT /a HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: ea6530d4-a25c-465a-88dd-8fd93e9116e2
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 0
+
+
+[DEBUG] HTTP/1.1 200 Hello Server World
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: ea6530d4-a25c-465a-88dd-8fd93e9116e2
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 0
+
+<h1>HELLO FROM SEDC SERVER 8:07:59 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /a HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: e68f6c8c-73c6-4a80-86ef-0019a72167f6
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[DEBUG] HTTP/1.1 200 Hello Server World
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: e68f6c8c-73c6-4a80-86ef-0019a72167f6
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+<h1>HELLO FROM SEDC SERVER 8:08:03 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 77c697af-cf79-4ffa-807e-d0455dd421de
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[DEBUG] HTTP/1.1 200 Hello Server World
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 77c697af-cf79-4ffa-807e-d0455dd421de
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+<h1>HELLO FROM SEDC SERVER 8:45:58 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 50f55fb0-7c0e-45a8-a875-6d8dd3312e9d
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[DEBUG] HTTP/1.1 200 OK
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 50f55fb0-7c0e-45a8-a875-6d8dd3312e9d
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+<h1>HELLO FROM SEDC SERVER 8:46:45 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 12e5b949-e987-4476-9eea-67f7e1ee07dd
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+<h1>HELLO FROM SEDC SERVER 8:48:48 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] POST / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: fe90d930-fce9-4374-b631-b753948a9f5b
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 0
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+<h1>HELLO FROM SEDC SERVER 8:49:53 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] PUT / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 01a40bbd-cf25-48e1-aab0-748bee7c78a9
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 0
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+<h1>HELLO FROM SEDC SERVER 8:49:58 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] PATCH / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 614efc6f-74f3-488f-9115-7543a6354d5f
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 0
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+<h1>HELLO FROM SEDC SERVER 8:50:02 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] PURGE / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 0fb21261-cfb1-42a2-a90d-8896597b71cb
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 0
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+<h1>HELLO FROM SEDC SERVER 8:50:08 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 9982c722-4554-4397-92cb-8bfc951ec410
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+<h1>HELLO FROM SEDC SERVER 8:50:13 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+<h1>HELLO FROM SEDC SERVER 8:50:24 PM</h1>
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] 
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+
+<h1>HELLO FROM SEDC SERVER 9:03:28 PM</h1>
+
+<p>The type of the request is Get</p>
+<p>The base URI of the request is /</p>
+<p>The headers of the request are</p>
+<ul>
+<li>Host: localhost:668</li>
+<li>Connection: keep-alive</li>
+<li>Cache-Control: max-age=0</li>
+<li>Upgrade-Insecure-Requests: 1</li>
+<li>User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36</li>
+<li>Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</li>
+<li>Sec-Fetch-Site: none</li>
+<li>Sec-Fetch-Mode: navigate</li>
+<li>Sec-Fetch-User: ?1</li>
+<li>Sec-Fetch-Dest: document</li>
+<li>Accept-Encoding: gzip, deflate, br</li>
+<li>Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4</li>
+<li>Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779</li>
+</ul>
+<p>There is no body </p>
+
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+
+<h1>HELLO FROM SEDC SERVER 9:04:27 PM</h1>
+
+<p>The type of the request is <strong>GET</strong></p>
+<p>The base URI of the request is /</p>
+<p>The headers of the request are</p>
+<ul>
+<li><strong>Host: localhost:668</strong></li>
+<li><strong>Connection: keep-alive</strong></li>
+<li><strong>Cache-Control: max-age=0</strong></li>
+<li><strong>Upgrade-Insecure-Requests: 1</strong></li>
+<li><strong>User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36</strong></li>
+<li><strong>Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</strong></li>
+<li><strong>Sec-Fetch-Site: none</strong></li>
+<li><strong>Sec-Fetch-Mode: navigate</strong></li>
+<li><strong>Sec-Fetch-User: ?1</strong></li>
+<li><strong>Sec-Fetch-Dest: document</strong></li>
+<li><strong>Accept-Encoding: gzip, deflate, br</strong></li>
+<li><strong>Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4</strong></li>
+<li><strong>Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779</strong></li>
+</ul>
+<p>There is no body </p>
+
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+
+<h1>HELLO FROM SEDC SERVER 9:04:56 PM</h1>
+
+<p>The type of the request is <strong>GET</strong></p>
+<p>The base URI of the request is /</p>
+<p>The headers of the request are</p>
+<ul>
+<li><strong>Host:</strong> localhost:668</li>
+<li><strong>Connection:</strong> keep-alive</li>
+<li><strong>Cache-Control:</strong> max-age=0</li>
+<li><strong>Upgrade-Insecure-Requests:</strong> 1</li>
+<li><strong>User-Agent:</strong> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36</li>
+<li><strong>Accept:</strong> text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</li>
+<li><strong>Sec-Fetch-Site:</strong> none</li>
+<li><strong>Sec-Fetch-Mode:</strong> navigate</li>
+<li><strong>Sec-Fetch-User:</strong> ?1</li>
+<li><strong>Sec-Fetch-Dest:</strong> document</li>
+<li><strong>Accept-Encoding:</strong> gzip, deflate, br</li>
+<li><strong>Accept-Language:</strong> en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4</li>
+<li><strong>Cookie:</strong> language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779</li>
+</ul>
+<p>There is no body </p>
+
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 77a4a181-4fbe-46c9-ac09-67532be79457
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+
+<h1>HELLO FROM SEDC SERVER 9:06:02 PM</h1>
+
+<p>The type of the request is <strong>GET</strong></p>
+<p>The base URI of the request is /</p>
+<p>The headers of the request are</p>
+<ul>
+<li><strong>User-Agent:</strong> PostmanRuntime/7.26.7</li>
+<li><strong>Accept:</strong> */*</li>
+<li><strong>Cache-Control:</strong> no-cache</li>
+<li><strong>Postman-Token:</strong> 77a4a181-4fbe-46c9-ac09-67532be79457</li>
+<li><strong>Host:</strong> localhost:668</li>
+<li><strong>Accept-Encoding:</strong> gzip, deflate, br</li>
+<li><strong>Connection:</strong> keep-alive</li>
+</ul>
+<p>There is no body </p>
+
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+Content-Type: text/plain
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: dd33a344-2e32-47e1-af4b-1b71b411f8a5
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 56
+
+sadfsdaf
+sdafsad
+f
+sadfsdafasdf
+asdf
+asdfsadf
+asdf
+[DEBUG] HTTP/1.1 200 OK
+
+
+
+<h1>HELLO FROM SEDC SERVER 9:06:11 PM</h1>
+
+<p>The type of the request is <strong>GET</strong></p>
+<p>The base URI of the request is /</p>
+<p>The headers of the request are</p>
+<ul>
+<li><strong>Content-Type:</strong> text/plain</li>
+<li><strong>User-Agent:</strong> PostmanRuntime/7.26.7</li>
+<li><strong>Accept:</strong> */*</li>
+<li><strong>Cache-Control:</strong> no-cache</li>
+<li><strong>Postman-Token:</strong> dd33a344-2e32-47e1-af4b-1b71b411f8a5</li>
+<li><strong>Host:</strong> localhost:668</li>
+<li><strong>Accept-Encoding:</strong> gzip, deflate, br</li>
+<li><strong>Connection:</strong> keep-alive</li>
+<li><strong>Content-Length:</strong> 56</li>
+</ul>
+<p>The body is:</p>
+<pre>
+<h1>HELLO FROM SEDC SERVER 9:06:11 PM</h1>
+
+<p>The type of the request is <strong>GET</strong></p>
+<p>The base URI of the request is /</p>
+<p>The headers of the request are</p>
+<ul>
+<li><strong>Content-Type:</strong> text/plain</li>
+<li><strong>User-Agent:</strong> PostmanRuntime/7.26.7</li>
+<li><strong>Accept:</strong> */*</li>
+<li><strong>Cache-Control:</strong> no-cache</li>
+<li><strong>Postman-Token:</strong> dd33a344-2e32-47e1-af4b-1b71b411f8a5</li>
+<li><strong>Host:</strong> localhost:668</li>
+<li><strong>Accept-Encoding:</strong> gzip, deflate, br</li>
+<li><strong>Connection:</strong> keep-alive</li>
+<li><strong>Content-Length:</strong> 56</li>
+</ul>
+<p>The body is:</p>
+</pre>
+
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+Content-Type: text/plain
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: ef28e1e7-ec2d-4157-9cf3-0694f1145fc4
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 56
+
+sadfsdaf
+sdafsad
+f
+sadfsdafasdf
+asdf
+asdfsadf
+asdf
+[DEBUG] HTTP/1.1 200 OK
+
+
+
+<h1>HELLO FROM SEDC SERVER 9:06:48 PM</h1>
+
+<p>The type of the request is <strong>GET</strong></p>
+<p>The base URI of the request is /</p>
+<p>The headers of the request are</p>
+<ul>
+<li><strong>Content-Type:</strong> text/plain</li>
+<li><strong>User-Agent:</strong> PostmanRuntime/7.26.7</li>
+<li><strong>Accept:</strong> */*</li>
+<li><strong>Cache-Control:</strong> no-cache</li>
+<li><strong>Postman-Token:</strong> ef28e1e7-ec2d-4157-9cf3-0694f1145fc4</li>
+<li><strong>Host:</strong> localhost:668</li>
+<li><strong>Accept-Encoding:</strong> gzip, deflate, br</li>
+<li><strong>Connection:</strong> keep-alive</li>
+<li><strong>Content-Length:</strong> 56</li>
+</ul>
+<p>The body is:</p>
+<pre>sadfsdaf
+sdafsad
+f
+sadfsdafasdf
+asdf
+asdfsadf
+asdf</pre>
+
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET / HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+
+<h1>HELLO FROM SEDC SERVER 9:07:40 PM</h1>
+
+<p>The type of the request is <strong>GET</strong></p>
+<p>The base URI of the request is /</p>
+<p>The headers of the request are</p>
+<ul>
+<li><strong>Host:</strong> localhost:668</li>
+<li><strong>Connection:</strong> keep-alive</li>
+<li><strong>Cache-Control:</strong> max-age=0</li>
+<li><strong>Upgrade-Insecure-Requests:</strong> 1</li>
+<li><strong>User-Agent:</strong> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36</li>
+<li><strong>Accept:</strong> text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</li>
+<li><strong>Sec-Fetch-Site:</strong> none</li>
+<li><strong>Sec-Fetch-Mode:</strong> navigate</li>
+<li><strong>Sec-Fetch-User:</strong> ?1</li>
+<li><strong>Sec-Fetch-Dest:</strong> document</li>
+<li><strong>Accept-Encoding:</strong> gzip, deflate, br</li>
+<li><strong>Accept-Language:</strong> en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4</li>
+<li><strong>Cookie:</strong> language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779</li>
+</ul>
+<p>There is no body </p>
+
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /style.css HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/style.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /style.css HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/style.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /style.css HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/style.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /style/css HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+
+<h1>HELLO FROM SEDC SERVER 9:08:39 PM</h1>
+
+<p>The type of the request is <strong>GET</strong></p>
+<p>The base URI of the request is /style/css</p>
+<p>The headers of the request are</p>
+<ul>
+<li><strong>Host:</strong> localhost:668</li>
+<li><strong>Connection:</strong> keep-alive</li>
+<li><strong>Upgrade-Insecure-Requests:</strong> 1</li>
+<li><strong>User-Agent:</strong> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36</li>
+<li><strong>Accept:</strong> text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</li>
+<li><strong>Sec-Fetch-Site:</strong> none</li>
+<li><strong>Sec-Fetch-Mode:</strong> navigate</li>
+<li><strong>Sec-Fetch-User:</strong> ?1</li>
+<li><strong>Sec-Fetch-Dest:</strong> document</li>
+<li><strong>Accept-Encoding:</strong> gzip, deflate, br</li>
+<li><strong>Accept-Language:</strong> en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4</li>
+<li><strong>Cookie:</strong> language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779</li>
+</ul>
+<p>There is no body </p>
+
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/style/css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] 
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /style/css HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+
+<html>
+    <head>
+        <title>SEDC Server Response</title>
+    </head>
+<body>
+<h1>HELLO FROM SEDC SERVER 9:10:17 PM</h1>
+
+<p>The type of the request is <strong>GET</strong></p>
+<p>The base URI of the request is /style/css</p>
+<p>The headers of the request are</p>
+<ul>
+<li><strong>Host:</strong> localhost:668</li>
+<li><strong>Connection:</strong> keep-alive</li>
+<li><strong>Cache-Control:</strong> max-age=0</li>
+<li><strong>Upgrade-Insecure-Requests:</strong> 1</li>
+<li><strong>User-Agent:</strong> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36</li>
+<li><strong>Accept:</strong> text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</li>
+<li><strong>Sec-Fetch-Site:</strong> none</li>
+<li><strong>Sec-Fetch-Mode:</strong> navigate</li>
+<li><strong>Sec-Fetch-User:</strong> ?1</li>
+<li><strong>Sec-Fetch-Dest:</strong> document</li>
+<li><strong>Accept-Encoding:</strong> gzip, deflate, br</li>
+<li><strong>Accept-Language:</strong> en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4</li>
+<li><strong>Cookie:</strong> language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779</li>
+</ul>
+<p>There is no body </p>
+</body></html>
+
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/style/css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] 
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /style/css HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+
+<html>
+    <head>
+        <title>SEDC Server Response</title>
+    </head>
+<body>
+<h1>HELLO FROM SEDC SERVER 9:12:02 PM</h1>
+<img src="https://www.sedc.mk/wp-content/uploads/2016/05/logo.png" />
+<p>The type of the request is <strong>GET</strong></p>
+<p>The base URI of the request is /style/css</p>
+<p>The headers of the request are</p>
+<ul>
+<li><strong>Host:</strong> localhost:668</li>
+<li><strong>Connection:</strong> keep-alive</li>
+<li><strong>Cache-Control:</strong> max-age=0</li>
+<li><strong>Upgrade-Insecure-Requests:</strong> 1</li>
+<li><strong>User-Agent:</strong> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36</li>
+<li><strong>Accept:</strong> text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</li>
+<li><strong>Sec-Fetch-Site:</strong> none</li>
+<li><strong>Sec-Fetch-Mode:</strong> navigate</li>
+<li><strong>Sec-Fetch-User:</strong> ?1</li>
+<li><strong>Sec-Fetch-Dest:</strong> document</li>
+<li><strong>Accept-Encoding:</strong> gzip, deflate, br</li>
+<li><strong>Accept-Language:</strong> en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4</li>
+<li><strong>Cookie:</strong> language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779</li>
+</ul>
+<p>There is no body </p>
+</body></html>
+
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/style/css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[DEBUG] HTTP/1.1 400 Bad Request
+
+
+Error Occured
+[INFO] Waiting for request
+[INFO] Client connected
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Started listening
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /style.css HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+
+<html>
+    <head>
+        <title>SEDC Server Response</title>
+    </head>
+<body>
+<h1>HELLO FROM SEDC SERVER 9:16:13 PM</h1>
+<img src="https://www.sedc.mk/wp-content/uploads/2016/05/logo.png" />
+<p>The type of the request is <strong>GET</strong></p>
+<p>The base URI of the request is /style.css</p>
+<p>The headers of the request are</p>
+<ul>
+<li><strong>Host:</strong> localhost:668</li>
+<li><strong>Connection:</strong> keep-alive</li>
+<li><strong>Upgrade-Insecure-Requests:</strong> 1</li>
+<li><strong>User-Agent:</strong> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36</li>
+<li><strong>Accept:</strong> text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</li>
+<li><strong>Sec-Fetch-Site:</strong> none</li>
+<li><strong>Sec-Fetch-Mode:</strong> navigate</li>
+<li><strong>Sec-Fetch-User:</strong> ?1</li>
+<li><strong>Sec-Fetch-Dest:</strong> document</li>
+<li><strong>Accept-Encoding:</strong> gzip, deflate, br</li>
+<li><strong>Accept-Language:</strong> en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4</li>
+<li><strong>Cookie:</strong> language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779</li>
+</ul>
+<p>There is no body </p>
+</body></html>
+
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/style.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+
+<html>
+    <head>
+        <title>SEDC Server Response</title>
+    </head>
+<body>
+<h1>HELLO FROM SEDC SERVER 9:16:13 PM</h1>
+<img src="https://www.sedc.mk/wp-content/uploads/2016/05/logo.png" />
+<p>The type of the request is <strong>GET</strong></p>
+<p>The base URI of the request is /favicon.ico</p>
+<p>The headers of the request are</p>
+<ul>
+<li><strong>Host:</strong> localhost:668</li>
+<li><strong>Connection:</strong> keep-alive</li>
+<li><strong>User-Agent:</strong> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36</li>
+<li><strong>Accept:</strong> image/avif,image/webp,image/apng,image/*,*/*;q=0.8</li>
+<li><strong>Sec-Fetch-Site:</strong> same-origin</li>
+<li><strong>Sec-Fetch-Mode:</strong> no-cors</li>
+<li><strong>Sec-Fetch-Dest:</strong> image</li>
+<li><strong>Referer:</strong> http://localhost:668/style.css</li>
+<li><strong>Accept-Encoding:</strong> gzip, deflate, br</li>
+<li><strong>Accept-Language:</strong> en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4</li>
+<li><strong>Cookie:</strong> language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779</li>
+</ul>
+<p>There is no body </p>
+</body></html>
+
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /styles/style.css HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+
+<html>
+    <head>
+        <title>SEDC Server Response</title>
+    </head>
+<body>
+<h1>HELLO FROM SEDC SERVER 9:16:22 PM</h1>
+<img src="https://www.sedc.mk/wp-content/uploads/2016/05/logo.png" />
+<p>The type of the request is <strong>GET</strong></p>
+<p>The base URI of the request is /styles/style.css</p>
+<p>The headers of the request are</p>
+<ul>
+<li><strong>Host:</strong> localhost:668</li>
+<li><strong>Connection:</strong> keep-alive</li>
+<li><strong>Upgrade-Insecure-Requests:</strong> 1</li>
+<li><strong>User-Agent:</strong> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36</li>
+<li><strong>Accept:</strong> text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</li>
+<li><strong>Sec-Fetch-Site:</strong> none</li>
+<li><strong>Sec-Fetch-Mode:</strong> navigate</li>
+<li><strong>Sec-Fetch-User:</strong> ?1</li>
+<li><strong>Sec-Fetch-Dest:</strong> document</li>
+<li><strong>Accept-Encoding:</strong> gzip, deflate, br</li>
+<li><strong>Accept-Language:</strong> en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4</li>
+<li><strong>Cookie:</strong> language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779</li>
+</ul>
+<p>There is no body </p>
+</body></html>
+
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/styles/style.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+
+<html>
+    <head>
+        <title>SEDC Server Response</title>
+    </head>
+<body>
+<h1>HELLO FROM SEDC SERVER 9:16:22 PM</h1>
+<img src="https://www.sedc.mk/wp-content/uploads/2016/05/logo.png" />
+<p>The type of the request is <strong>GET</strong></p>
+<p>The base URI of the request is /favicon.ico</p>
+<p>The headers of the request are</p>
+<ul>
+<li><strong>Host:</strong> localhost:668</li>
+<li><strong>Connection:</strong> keep-alive</li>
+<li><strong>User-Agent:</strong> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36</li>
+<li><strong>Accept:</strong> image/avif,image/webp,image/apng,image/*,*/*;q=0.8</li>
+<li><strong>Sec-Fetch-Site:</strong> same-origin</li>
+<li><strong>Sec-Fetch-Mode:</strong> no-cors</li>
+<li><strong>Sec-Fetch-Dest:</strong> image</li>
+<li><strong>Referer:</strong> http://localhost:668/styles/style.css</li>
+<li><strong>Accept-Encoding:</strong> gzip, deflate, br</li>
+<li><strong>Accept-Language:</strong> en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4</li>
+<li><strong>Cookie:</strong> language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779</li>
+</ul>
+<p>There is no body </p>
+</body></html>
+
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /styles/style.png HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+
+<html>
+    <head>
+        <title>SEDC Server Response</title>
+    </head>
+<body>
+<h1>HELLO FROM SEDC SERVER 9:16:30 PM</h1>
+<img src="https://www.sedc.mk/wp-content/uploads/2016/05/logo.png" />
+<p>The type of the request is <strong>GET</strong></p>
+<p>The base URI of the request is /styles/style.png</p>
+<p>The headers of the request are</p>
+<ul>
+<li><strong>Host:</strong> localhost:668</li>
+<li><strong>Connection:</strong> keep-alive</li>
+<li><strong>Upgrade-Insecure-Requests:</strong> 1</li>
+<li><strong>User-Agent:</strong> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36</li>
+<li><strong>Accept:</strong> text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</li>
+<li><strong>Sec-Fetch-Site:</strong> none</li>
+<li><strong>Sec-Fetch-Mode:</strong> navigate</li>
+<li><strong>Sec-Fetch-User:</strong> ?1</li>
+<li><strong>Sec-Fetch-Dest:</strong> document</li>
+<li><strong>Accept-Encoding:</strong> gzip, deflate, br</li>
+<li><strong>Accept-Language:</strong> en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4</li>
+<li><strong>Cookie:</strong> language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779</li>
+</ul>
+<p>There is no body </p>
+</body></html>
+
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/styles/style.png
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+
+<html>
+    <head>
+        <title>SEDC Server Response</title>
+    </head>
+<body>
+<h1>HELLO FROM SEDC SERVER 9:16:30 PM</h1>
+<img src="https://www.sedc.mk/wp-content/uploads/2016/05/logo.png" />
+<p>The type of the request is <strong>GET</strong></p>
+<p>The base URI of the request is /favicon.ico</p>
+<p>The headers of the request are</p>
+<ul>
+<li><strong>Host:</strong> localhost:668</li>
+<li><strong>Connection:</strong> keep-alive</li>
+<li><strong>User-Agent:</strong> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36</li>
+<li><strong>Accept:</strong> image/avif,image/webp,image/apng,image/*,*/*;q=0.8</li>
+<li><strong>Sec-Fetch-Site:</strong> same-origin</li>
+<li><strong>Sec-Fetch-Mode:</strong> no-cors</li>
+<li><strong>Sec-Fetch-Dest:</strong> image</li>
+<li><strong>Referer:</strong> http://localhost:668/styles/style.png</li>
+<li><strong>Accept-Encoding:</strong> gzip, deflate, br</li>
+<li><strong>Accept-Language:</strong> en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4</li>
+<li><strong>Cookie:</strong> language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779</li>
+</ul>
+<p>There is no body </p>
+</body></html>
+
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /styles/style.png HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+
+<html>
+    <head>
+        <title>SEDC Server Response</title>
+    </head>
+<body>
+<h1>HELLO FROM SEDC SERVER 9:16:53 PM</h1>
+<img src="https://www.sedc.mk/wp-content/uploads/2016/05/logo.png" />
+<p>The type of the request is <strong>GET</strong></p>
+<p>The base URI of the request is /styles/style.png</p>
+<p>The headers of the request are</p>
+<ul>
+<li><strong>Host:</strong> localhost:668</li>
+<li><strong>Connection:</strong> keep-alive</li>
+<li><strong>Cache-Control:</strong> max-age=0</li>
+<li><strong>Upgrade-Insecure-Requests:</strong> 1</li>
+<li><strong>User-Agent:</strong> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36</li>
+<li><strong>Accept:</strong> text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</li>
+<li><strong>Sec-Fetch-Site:</strong> none</li>
+<li><strong>Sec-Fetch-Mode:</strong> navigate</li>
+<li><strong>Sec-Fetch-User:</strong> ?1</li>
+<li><strong>Sec-Fetch-Dest:</strong> document</li>
+<li><strong>Accept-Encoding:</strong> gzip, deflate, br</li>
+<li><strong>Accept-Language:</strong> en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4</li>
+<li><strong>Cookie:</strong> language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779</li>
+</ul>
+<p>There is no body </p>
+</body></html>
+
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] PUT / HTTP/1.1
+Content-Type: text/plain
+User-Agent: PostmanRuntime/7.26.7
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 959ba3df-7b2c-4184-b638-af455ac1db53
+Host: localhost:668
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 56
+
+sadfsdaf
+sdafsad
+f
+sadfsdafasdf
+asdf
+asdfsadf
+asdf
+[DEBUG] HTTP/1.1 200 OK
+
+
+
+<html>
+    <head>
+        <title>SEDC Server Response</title>
+    </head>
+<body>
+<h1>HELLO FROM SEDC SERVER 9:16:53 PM</h1>
+<img src="https://www.sedc.mk/wp-content/uploads/2016/05/logo.png" />
+<p>The type of the request is <strong>PUT</strong></p>
+<p>The base URI of the request is /</p>
+<p>The headers of the request are</p>
+<ul>
+<li><strong>Content-Type:</strong> text/plain</li>
+<li><strong>User-Agent:</strong> PostmanRuntime/7.26.7</li>
+<li><strong>Accept:</strong> */*</li>
+<li><strong>Cache-Control:</strong> no-cache</li>
+<li><strong>Postman-Token:</strong> 959ba3df-7b2c-4184-b638-af455ac1db53</li>
+<li><strong>Host:</strong> localhost:668</li>
+<li><strong>Accept-Encoding:</strong> gzip, deflate, br</li>
+<li><strong>Connection:</strong> keep-alive</li>
+<li><strong>Content-Length:</strong> 56</li>
+</ul>
+<p>The body is:</p>
+<pre>sadfsdaf
+sdafsad
+f
+sadfsdafasdf
+asdf
+asdfsadf
+asdf</pre>
+</body></html>
+
+[INFO] Sent response
+[INFO] Waiting for request
+[INFO] Client connected
+[DEBUG] GET /favicon.ico HTTP/1.1
+Host: localhost:668
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:668/styles/style.png
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4
+Cookie: language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779
+
+
+[DEBUG] HTTP/1.1 200 OK
+
+
+
+<html>
+    <head>
+        <title>SEDC Server Response</title>
+    </head>
+<body>
+<h1>HELLO FROM SEDC SERVER 9:16:53 PM</h1>
+<img src="https://www.sedc.mk/wp-content/uploads/2016/05/logo.png" />
+<p>The type of the request is <strong>GET</strong></p>
+<p>The base URI of the request is /favicon.ico</p>
+<p>The headers of the request are</p>
+<ul>
+<li><strong>Host:</strong> localhost:668</li>
+<li><strong>Connection:</strong> keep-alive</li>
+<li><strong>Pragma:</strong> no-cache</li>
+<li><strong>Cache-Control:</strong> no-cache</li>
+<li><strong>User-Agent:</strong> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36</li>
+<li><strong>Accept:</strong> image/avif,image/webp,image/apng,image/*,*/*;q=0.8</li>
+<li><strong>Sec-Fetch-Site:</strong> same-origin</li>
+<li><strong>Sec-Fetch-Mode:</strong> no-cors</li>
+<li><strong>Sec-Fetch-Dest:</strong> image</li>
+<li><strong>Referer:</strong> http://localhost:668/styles/style.png</li>
+<li><strong>Accept-Encoding:</strong> gzip, deflate, br</li>
+<li><strong>Accept-Language:</strong> en-US,en;q=0.9,mk;q=0.8,sr;q=0.7,hr;q=0.6,bs;q=0.5,bg;q=0.4</li>
+<li><strong>Cookie:</strong> language=en; u_token=JWT%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNWY0M2Q4NjAzZDlmN2Y1YThjNzQyNTI2IiwiaWF0IjoxNTk4MjgzNjQxfQ.O9dSGoRl3h08YozGhRfN-lpOHKiSxO8q0Ts_fIBrudU; _ga=GA1.1.2037389660.1601149779</li>
+</ul>
+<p>There is no body </p>
+</body></html>
+
+[INFO] Sent response
+[INFO] Waiting for request

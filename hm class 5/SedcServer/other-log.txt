@@ -1,0 +1,297 @@
+[FATAL] not-a-fatal-error
+[FATAL] not-a-fatal-error
+[FATAL] not-a-fatal-error
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest(NetworkStream stream, ILogger logger) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 19
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 48
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 50
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 50
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 50
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 50
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 50
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 50
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 50
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52
+[ERROR] Unable to get the request
+[ERROR]    uri
+   at ServerCore.Requests.UriParser.Parse(String uri) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\UriParser.cs:line 20
+   at ServerCore.Requests.RequestParser.Parse(String requestData) in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestParser.cs:line 33
+   at ServerCore.Requests.RequestGetter.GetRequest() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Requests\RequestGetter.cs:line 27
+   at ServerCore.Engine.WebServer.Run() in C:\Source\SEDC\skwd8-niwd1-wdel6\ServerCore\Engine\WebServer.cs:line 52

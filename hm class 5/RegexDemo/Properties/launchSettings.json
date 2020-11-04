@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RegexDemo": {
+      "commandName": "Project",
+      "commandLineArgs": "regex"
+    }
+  }
+}
